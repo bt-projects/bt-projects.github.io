@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://bt-projects.github.io/</loc>
-         <lastmod>2025-02-02</lastmod>
+         <lastmod>2025-02-03</lastmod>
     </url>
     <url>
          <loc>https://bt-projects.github.io/blog/</loc>
-         <lastmod>2025-02-02</lastmod>
+         <lastmod>2025-02-03</lastmod>
     </url>
     <url>
          <loc>https://bt-projects.github.io/courses/overview/</loc>
-         <lastmod>2025-02-02</lastmod>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bt-projects.github.io/courses/secret/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bt-projects.github.io/mvp/overview/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bt-projects.github.io/projects/freelance/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bt-projects.github.io/projects/intro/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bt-projects.github.io/projects/paid/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://bt-projects.github.io/projects/personal/</loc>
+         <lastmod>2025-02-03</lastmod>
     </url>
 </urlset>
